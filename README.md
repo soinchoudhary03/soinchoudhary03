@@ -34,4 +34,4 @@ Shri Ram Group of Colleges | 2022–2026
 
 - LinkedIn: https://linkedin.com/in/soin-choudhary-667892329
 - Email: soinchoudhary090@gmail.com
-- GitHub: https://github.com/soinchoudhary
+- GitHub: https://github.com/soinchoudhary03
